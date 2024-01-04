@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "forum-wpyst7"
+    "forum-wpyst7": {
+      "functions": {
+        "node": "18" 
+      }
+    }
+  }
+}

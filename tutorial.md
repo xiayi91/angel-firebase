@@ -26,6 +26,6 @@
 - debug在代码里加入 `debugger; // 设置断点`
 - API example:
 ```
-curl --location 'curl --location 'http://127.0.0.1:5001/forum-wpyst7/us-central1/getForumsByLanguage?language=en''
+curl --location 'http://127.0.0.1:5001/forum-wpyst7/us-central1/getForumsByLanguage?language=en''
 ```
 
